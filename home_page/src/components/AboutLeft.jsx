@@ -7,7 +7,7 @@ const AboutLeft = () => {
         <span className="text-cyan-500">»»</span> About RSSDI 2026
       </h4>
 
-      <h1 className="text-4xl lg:text-6xl font-bold text-[#1b2b4f] leading-tight">
+      <h1 className="text-3xl lg:text-6xl font-bold text-[#1b2b4f] leading-tight">
         Greetings from Namma Bengaluru!
       </h1>
 

@@ -41,7 +41,7 @@ const AboutRight = () => {
           </div>
 
           
-          <div className="absolute top-4 right-6 w-32 h-32 rounded-full border-[6px] border-cyan-600 bg-white p-1">
+          <div className="absolute top-4 right-6 w-32 h-32 rounded-full border-[6px] border-cyan-500 bg-white p-1">
             <img
               src={member.image}
               alt={member.name}
